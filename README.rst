@@ -3,7 +3,7 @@ LabVIEW Exceptions
 
 Mimics usage of exceptions in LabVIEW.
 
-`Tutorial <http://krason.biz/blog/lv%20exceptions.py.html>`_
+`Tutorial <http://krason.me/blog/lv%20exceptions.py.html>`_
 
 `Source code <https://github.com/gergelyk/lv_exceptions>`_
 
